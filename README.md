@@ -87,7 +87,7 @@
 - 📘 *How to Build a Smart Android App with Kotlin & Firebase* *(Coming soon)*  
 - 💬 *Top Tools for Real-Time Dashboard Development*  
 - 🧠 *Integrating AI into Your Projects – Starter Guide*  
-- 🚀 *Lessons Learned from Building EduAid*
+- 🚀 *Lessons Learned from Building Smart campus assistant*
 
 ---
 
