@@ -11,7 +11,6 @@ I'm **Bonthu Jayaram**, a passionate **Full-Stack Developer**, **Android Enthusi
 🚀 Currently building: **EduAid – AI-Powered Skill Mentor for Tier-2/3 Colleges**  
 🧠 Exploring: `Next.js`, `TensorFlow`, `Docker`, `Scalable Microservices`  
 📫 Reach me at: [bonthujayaram57@gmail.com](mailto:bonthujayaram57@gmail.com)  
-📄 [View My Resume](https://drive.google.com/your-resume-link-here)
 
 ---
 
@@ -52,7 +51,7 @@ I'm **Bonthu Jayaram**, a passionate **Full-Stack Developer**, **Android Enthusi
 | 💡 Project | 📄 Description | 🔗 Link |
 |-----------|----------------|--------|
 | 🔤 **Offline Language Translator** | Android app supporting 45+ offline languages using Java & Kotlin. | [GitHub](https://github.com/Bonthujayaram/Offline-Languge-Translator-android-app) |
-| ✅ **To-Do App** | Full-stack task manager using ReactJS + NodeJS with real-time updates. | [GitHub](https://github.com/Bonthujayaram/ToDo-App) |
+| 🤖 **Chatbot using Gemini** | AI-powered chatbot built with Gemini API and modern frontend/backend stack. | [Live Demo](https://chatbotusing-gemini-theta.vercel.app/) |
 | 🧵 **SMO Tracking System** | End-to-end Spring Boot + MySQL tracker with Kotlin mobile and ReactJS dashboard. | [GitHub](https://github.com/Bonthujayaram/SMO-Tracking-System) |
 | 🧠 **Smart Campus Assistant** *(in progress)* | *Coming soon* |
 
