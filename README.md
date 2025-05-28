@@ -26,7 +26,7 @@ I'm **Bonthu Jayaram**, a passionate **Full-Stack Developer**, **Android Enthusi
 `MySQL` `MongoDB` `Firebase` `Google Cloud`
 
 **Tools & IDEs**  
-`Android Studio` `VS Code` `Eclipse IDE` `Postman` `Git & GitHub`
+`Android Studio` `VS Code` `Eclipse IDE` `Git & GitHub`
 
 ---
 
@@ -37,7 +37,7 @@ I'm **Bonthu Jayaram**, a passionate **Full-Stack Developer**, **Android Enthusi
 | 🔤 **Offline Language Translator** | Android app with support for 45+ offline languages. | [GitHub](https://github.com/Bonthujayaram/Offline-Languge-Translator-android-app) |
 | ✅ **To-Do App** | Real-time task manager using ReactJS & NodeJS. | [GitHub](https://github.com/Bonthujayaram/ToDo-App) |
 | 🧵 **SMO Tracking System** | End-to-end Sewing Ops tracker built with Spring Boot, Kotlin, and MySQL. | [GitHub](https://github.com/Bonthujayaram/SMO-Tracking-System) |
-| 🧠 **EduAid** *(in progress)* | AI-based mentor app to guide students from Tier-2/3 colleges. | *Coming soon* |
+| 🧠 **Smart Campus Assistant** *(in progress)* | Ai based Smart campus assistant for colleges | *Coming soon* |
 
 ---
 
