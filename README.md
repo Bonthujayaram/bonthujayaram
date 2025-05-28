@@ -38,7 +38,7 @@ I'm **Bonthu Jayaram**, a passionate **Full-Stack Developer**, **Android Enthusi
 | 🔤 **Offline Language Translator** | Android app with support for 45+ offline languages. | [GitHub](https://github.com/Bonthujayaram/Offline-Languge-Translator-android-app) |
 | 🤖 **Chatbot using Gemini** | AI-powered chatbot built with Gemini API and modern frontend/backend stack. | [Live Demo](https://chatbotusing-gemini-theta.vercel.app/) |
 | 🧵 **SMO Tracking System** | End-to-end Sewing Ops tracker built with Spring Boot, Kotlin, and MySQL. | [GitHub](https://github.com/Bonthujayaram/SMO-Tracking-System) |
-| 🧠 **EduAid** *(in progress)* | AI-based mentor app to guide students from Tier-2/3 colleges. | *Coming soon* |
+| 🧠 **Smart Campus Assistant** *(in progress)*  *Coming soon* |
 
 ---
 
