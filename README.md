@@ -40,13 +40,13 @@
 
 ## 🛠️ Experience
 
-### 🧪 Software Developer Intern – **NullClass** *(Aug–Nov 2024)*
-- Google Cloud–based secure user authentication & RBAC.
-- Integrated multilingual video services with Spring Boot + MongoDB.
-
 ### 🌐 Full-Stack Intern – **Krunatic Solutions** *(Jun–Aug 2024)*
 - React + Node.js app with 25% improvement in load speed.
 - Integrated REST APIs for modular data handling.
+
+### 🧪 Software Developer Intern – **NullClass** *(Aug–Nov 2024)*
+- Google Cloud–based secure user authentication & RBAC.
+- Integrated multilingual video services with Spring Boot + MongoDB.
 
 ---
 
