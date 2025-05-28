@@ -11,6 +11,7 @@ I'm **Bonthu Jayaram**, a passionate **Full-Stack Developer**, **Android Enthusi
 🚀 Currently working on: **EduAid – AI-Powered Skill Mentor for Tier-2/3 Colleges**  
 🌱 Exploring: `Next.js`, `TensorFlow`, `Scalable Microservices`  
 📫 Reach me at: [bonthujayaram57@gmail.com](mailto:bonthujayaram57@gmail.com)  
+📄 [View My Resume](https://drive.google.com/your-resume-link-here)
 
 ---
 
@@ -26,7 +27,7 @@ I'm **Bonthu Jayaram**, a passionate **Full-Stack Developer**, **Android Enthusi
 `MySQL` `MongoDB` `Firebase` `Google Cloud`
 
 **Tools & IDEs**  
-`Android Studio` `VS Code` `Eclipse IDE` `Git & GitHub`
+`Android Studio` `VS Code` `Eclipse IDE` `Postman` `Git & GitHub`
 
 ---
 
@@ -35,9 +36,9 @@ I'm **Bonthu Jayaram**, a passionate **Full-Stack Developer**, **Android Enthusi
 | 💡 Project | 📄 Description | 🔗 Link |
 |-----------|----------------|--------|
 | 🔤 **Offline Language Translator** | Android app with support for 45+ offline languages. | [GitHub](https://github.com/Bonthujayaram/Offline-Languge-Translator-android-app) |
-| ✅ **To-Do App** | Real-time task manager using ReactJS & NodeJS. | [GitHub](https://github.com/Bonthujayaram/ToDo-App) |
+| 🤖 **Chatbot using Gemini** | AI-powered chatbot built with Gemini API and modern frontend/backend stack. | [Live Demo](https://chatbotusing-gemini-theta.vercel.app/) |
 | 🧵 **SMO Tracking System** | End-to-end Sewing Ops tracker built with Spring Boot, Kotlin, and MySQL. | [GitHub](https://github.com/Bonthujayaram/SMO-Tracking-System) |
-| 🧠 **Smart Campus Assistant** *(in progress)* | Ai based Smart campus assistant for colleges | *Coming soon* |
+| 🧠 **EduAid** *(in progress)* | AI-based mentor app to guide students from Tier-2/3 colleges. | *Coming soon* |
 
 ---
 
@@ -51,9 +52,9 @@ I'm **Bonthu Jayaram**, a passionate **Full-Stack Developer**, **Android Enthusi
 
 ## 📝 Latest Blog Posts
 
-- 📘 *How to Build a Smart Android App with Kotlin & Firebase* (Coming soon)
-- 💬 *Top Tools for Real-Time Dashboard Development*
-- 🧠 *Integrating AI into Your Projects – Starter Guide*
+- 📘 *How to Build a Smart Android App with Kotlin & Firebase* (Coming soon)  
+- 💬 *Top Tools for Real-Time Dashboard Development*  
+- 🧠 *Integrating AI into Your Projects – Starter Guide*  
 - 🚀 *Lessons Learned from Building EduAid*
 
 > Want to stay updated? Follow me on [LinkedIn](https://www.linkedin.com/in/jayaram-bonthu-800003255/) or [GitHub](https://github.com/Bonthujayaram)
