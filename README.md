@@ -1,7 +1,8 @@
-<!-- Typing SVG Hero Section -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=4FFFD5&center=true&vCenter=true&width=435&lines=Hey+%F0%9F%91%8B+I'm+Bonthu+Jayaram!;Full-Stack+Developer;Android+Enthusiast;AI+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B+I'm+Bonthu+Jayaram!;Full-Stack+Developer;Android+Enthusiast;AI+Explorer" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <img src="https://github.com/Bonthujayaram/Bonthujayaram/blob/main/banner.gif" width="100%" alt="Welcome Banner"/>
