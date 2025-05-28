@@ -7,9 +7,9 @@ I'm **Bonthu Jayaram**, a passionate **Full-Stack Developer**, **Android Enthusi
 
 ## 💡 About Me
 
-🎓 B.Tech in CSE (AI & ML), **Centurion University** (2022–2026)  
-🚀 Currently working on: **EduAid – AI-Powered Skill Mentor for Tier-2/3 Colleges**  
-🌱 Exploring: `Next.js`, `TensorFlow`, `Scalable Microservices`  
+🎓 B.Tech in CSE (AI & ML), **Centurion University** (2022–2026) — *Current CGPA: 9.25*  
+🚀 Currently building: **EduAid – AI-Powered Skill Mentor for Tier-2/3 Colleges**  
+🧠 Exploring: `Next.js`, `TensorFlow`, `Docker`, `Scalable Microservices`  
 📫 Reach me at: [bonthujayaram57@gmail.com](mailto:bonthujayaram57@gmail.com)  
 📄 [View My Resume](https://drive.google.com/your-resume-link-here)
 
@@ -20,14 +20,30 @@ I'm **Bonthu Jayaram**, a passionate **Full-Stack Developer**, **Android Enthusi
 **Languages**  
 `Java` `Kotlin` `JavaScript` `Python` `C`
 
-**Frameworks & Libraries**  
-`ReactJS` `Spring Boot` `Node.js` `Tailwind CSS` `XML`
+**Web & Mobile**  
+`ReactJS` `Node.js` `HTML` `CSS` `Kotlin (Android)` `XML`
+
+**Frameworks & Tools**  
+`Spring Boot` `TensorFlow` `OpenCV` `Git` `Docker`
 
 **Databases & Cloud**  
-`MySQL` `MongoDB` `Firebase` `Google Cloud`
+`MySQL` `MongoDB` `Google Cloud` `Firebase`
 
 **Tools & IDEs**  
 `Android Studio` `VS Code` `Eclipse IDE` `Postman` `Git & GitHub`
+
+---
+
+## 🛠️ Experience
+
+**Software Developer Intern** — *NullClass* (Aug 2024 – Nov 2024)  
+- Built secure user authentication and RBAC using Google Cloud.  
+- Developed video upload and multilingual translation features.  
+- Led backend dev with Spring Boot and MongoDB.
+
+**Full-Stack Web Development Intern** — *Krunatic Solutions* (June 2024 – Aug 2024)  
+- Built scalable React + Node.js web apps (25% performance boost).  
+- Integrated REST APIs to improve system communication.
 
 ---
 
@@ -35,10 +51,19 @@ I'm **Bonthu Jayaram**, a passionate **Full-Stack Developer**, **Android Enthusi
 
 | 💡 Project | 📄 Description | 🔗 Link |
 |-----------|----------------|--------|
-| 🔤 **Offline Language Translator** | Android app with support for 45+ offline languages. | [GitHub](https://github.com/Bonthujayaram/Offline-Languge-Translator-android-app) |
-| 🤖 **Chatbot using Gemini** | AI-powered chatbot built with Gemini API and modern frontend/backend stack. | [Live Demo](https://chatbotusing-gemini-theta.vercel.app/) |
-| 🧵 **SMO Tracking System** | End-to-end Sewing Ops tracker built with Spring Boot, Kotlin, and MySQL. | [GitHub](https://github.com/Bonthujayaram/SMO-Tracking-System) |
-| 🧠 **Smart Campus Assistant** *(in progress)*  *Coming soon* |
+| 🔤 **Offline Language Translator** | Android app supporting 45+ offline languages using Java & Kotlin. | [GitHub](https://github.com/Bonthujayaram/Offline-Languge-Translator-android-app) |
+| ✅ **To-Do App** | Full-stack task manager using ReactJS + NodeJS with real-time updates. | [GitHub](https://github.com/Bonthujayaram/ToDo-App) |
+| 🧵 **SMO Tracking System** | End-to-end Spring Boot + MySQL tracker with Kotlin mobile and ReactJS dashboard. | [GitHub](https://github.com/Bonthujayaram/SMO-Tracking-System) |
+| 🧠 **Smart Campus Assistant** *(in progress)* | *Coming soon* |
+
+---
+
+## 🏅 Achievements & Certifications
+
+- 🧭 NPTEL+: *GIS, Drones & Machine Learning*, IIT Madras & CUTM (2025)  
+- ⚡ Finalist: *Hackathon X*, NCSRC AP & VIT-AP  
+- 🏁 Participant: *Rapid Innovation Challenge*, CMRIT Bangalore  
+- 📚 *Coursera*: Full-Stack Web Development with React (2024)
 
 ---
 
