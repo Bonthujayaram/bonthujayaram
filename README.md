@@ -6,10 +6,6 @@
   <img src="https://github.com/Bonthujayaram/Bonthujayaram/blob/main/banner.gif" width="100%" />
 </p>
 
-<h2 align="center">
-AI Engineer | Healthcare Imaging Research | Full-Stack Systems Builder
-</h2>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=600&color=0A66C2&center=true&vCenter=true&width=700&lines=AI+Engineer;Healthcare+AI+Researcher;Full-Stack+Developer;CGPA+9.27" />
 </p>
@@ -60,9 +56,7 @@ AI Engineer | Healthcare Imaging Research | Full-Stack Systems Builder
 ## ⚙️ Tech Arsenal
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=python,java,kotlin,js,react,nextjs,nodejs,spring,fastapi,tensorflow,mysql,mongodb,docker,git,vscode" />
-
 </p>
 
 ---
