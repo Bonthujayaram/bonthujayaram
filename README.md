@@ -7,7 +7,7 @@ Bonthu Jayaram
 </h2>
 
 <p align="center">
-AI Engineer | Full-Stack Systems Builder
+AI Engineer | Full-Stack Systems Builder | Android Developer
 </p>
 
 <p align="center">
