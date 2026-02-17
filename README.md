@@ -10,11 +10,6 @@ Bonthu Jayaram
 AI Engineer | Full-Stack Systems Builder | Android Developer
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20Engineer-Healthcare%20AI-0A66C2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Full%20Stack-Developer-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CGPA-9.27-blue?style=for-the-badge"/>
-</p>
 
 ---
 
