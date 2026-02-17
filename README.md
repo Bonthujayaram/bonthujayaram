@@ -6,6 +6,10 @@
   <img src="https://github.com/Bonthujayaram/Bonthujayaram/blob/main/banner.gif" width="100%" />
 </p>
 
+<h3 align="center">
+AI Engineer | Healthcare Imaging Research | Full-Stack Systems Builder
+</h3>
+
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Engineer-Healthcare%20AI-0A66C2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Full%20Stack-Developer-black?style=for-the-badge"/>
