@@ -1,22 +1,22 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&duration=3000&pause=600&color=0A66C2&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Bonthu+Jayaram;AI+%7C+Healthcare+Imaging+%7C+Full-Stack+Engineer;Building+Research+Into+Real-World+Impact" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&duration=3000&pause=600&color=0A66C2&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Bonthu+Jayaram;AI+Engineer+%7C+Healthcare+Imaging+Research;Full-Stack+Systems+Builder;Turning+Research+Into+Real-World+Impact" />
 </p>
 
 <p align="center">
   <img src="https://github.com/Bonthujayaram/Bonthujayaram/blob/main/banner.gif" width="100%" />
 </p>
 
-<h3 align="center">
+<h2 align="center">
 AI Engineer | Healthcare Imaging Research | Full-Stack Systems Builder
-</h3>
+</h2>
 
-<!-- Sequential animated role highlight -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=600&color=0A66C2&center=true&vCenter=true&width=700&lines=AI+Engineer;Healthcare+AI+Researcher;Full-Stack+Developer;CGPA+9.27" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Engineer-Healthcare%20AI-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Healthcare%20AI-Imaging%20Research-0057b8?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Full%20Stack-Developer-black?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/CGPA-9.27-blue?style=for-the-badge"/>
 </p>
@@ -29,14 +29,14 @@ AI Engineer | Healthcare Imaging Research | Full-Stack Systems Builder
 🏥 **Healthcare Imaging & AI Research Intern — IIT Research Park (HTIC)**  
 🚀 **Founder:** EduAid – AI-Powered Skill Mentor  
 
-💡 Building **AI systems that move from research → production → real-world impact**, specializing in **Healthcare Imaging, Computer Vision, and Scalable Platforms**.
+💡 I build **AI systems that move from research → production → real-world deployment**, focusing on **Healthcare Imaging, Computer Vision, and Scalable Full-Stack Platforms**.
 
 ---
 
 ## 🧠 Core Expertise
 
-| Healthcare AI | Applied AI | Full-Stack Systems |
-|---------------|-----------|-------------------|
+| 🏥 Healthcare AI | 🤖 Applied AI | 🌐 Full-Stack Systems |
+|-----------------|-------------|--------------------|
 | Medical Imaging Pipelines | Deep Learning Systems | Scalable Backend Architecture |
 | 3D Imaging & Tracking | Video Intelligence | Modern Frontend Interfaces |
 | Research Deployment | Recommendation Engines | API-Driven Platforms |
@@ -48,12 +48,12 @@ AI Engineer | Healthcare Imaging Research | Full-Stack Systems Builder
 ### 🏥 Healthcare AI Imaging Systems — IIT Madras
 - Real-time AI imaging pipelines for healthcare automation  
 - Deep learning-based detection & tracking workflows  
-- Deployment of **enterprise-ready research prototypes**
+- Enterprise-ready research prototype deployment
 
 ### 🤖 EduAid — AI Skill Mentor
-- Personalized **career roadmap generation**
-- Skill-gap intelligence & recommendation engine
-- AI-driven learning pathways for Tier-2/3 students
+- Personalized career roadmap generation  
+- Skill-gap intelligence & recommendation engine  
+- AI-driven learning pathways for Tier-2/3 students  
 
 ---
 
@@ -61,20 +61,7 @@ AI Engineer | Healthcare Imaging Research | Full-Stack Systems Builder
 
 <p align="center">
 
-**Languages**  
-<img src="https://skillicons.dev/icons?i=python,java,kotlin,js"/>
-
-**Frontend**  
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css"/>
-
-**Backend**  
-<img src="https://skillicons.dev/icons?i=nodejs,spring,fastapi"/>
-
-**AI / Data**  
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-
-**Databases & Tools**  
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,git,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,js,react,nextjs,nodejs,spring,fastapi,tensorflow,mysql,mongodb,docker,git,vscode" />
 
 </p>
 
