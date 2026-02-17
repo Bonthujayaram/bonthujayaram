@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=0A66C2&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Bonthu+Jayaram;AI+%26+Full-Stack+Developer;Healthcare+Imaging+Research+Intern+@+IIT+Madras;Building+Real-World+Impactful+Tech" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=600&color=0A66C2&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Bonthu+Jayaram;AI+%7C+Healthcare+Imaging+%7C+Full-Stack+Developer;Turning+Research+Into+Real-World+Impact" />
 </p>
 
 <p align="center">
@@ -8,97 +8,123 @@
 
 ---
 
-# 👨‍💻 Bonthu Jayaram
+## 👋 About Me
 
-🎓 **B.Tech CSE (AI & ML)** — Centurion University (2022–2026)  
-📊 **CGPA:** 9.25  
-🏥 **Healthcare Imaging Research Intern — IIT Madras (HTIC)**  
-🚀 Founder Project: **EduAid – AI-Powered Skill Mentor**  
+🎓 **B.Tech Computer Science (AI & ML)** — *Centurion University*  
+📊 **CGPA:** `9.27 / 10`  
+🏥 **Healthcare Imaging & AI Research Intern** — *IIT Research Park (HTIC)*  
+🚀 **Founder:** *EduAid – AI-Powered Skill Mentor*
 
-🌐 **Portfolio:** https://portfolio2-0-bay-six.vercel.app/  
-📫 **Email:** bonthujayaram57@gmail.com  
-
----
-
-## 🚀 What I'm Building
-
-### 🏥 Healthcare Imaging Systems — IIT Madras
-- Developing medical imaging workflow solutions
-- Building visualization and tracking-based healthcare tools
-- Working alongside researchers to translate clinical problems into software systems
-
-### 🤖 EduAid — AI Skill Mentor
-- AI-driven career roadmap generator
-- Skill gap detection + personalized learning plans
-- Data-driven recommendations for Tier-2/3 students
+💡 I design **AI-driven systems** that bridge **research, engineering, and real-world deployment**, with strong focus on **Healthcare Imaging, Computer Vision, and Scalable Full-Stack Systems**.
 
 ---
 
-## ⚙️ Tech Stack
+## 🧠 What I Specialize In
 
-**Languages**  
-`Java` `Python` `Kotlin` `JavaScript` `C`
+🔬 **Healthcare AI & Medical Imaging**  
+- Real-time computer vision pipelines  
+- 3D medical imaging & tracking systems  
+- Research-grade AI prototype deployment  
 
-**Frontend**  
+🤖 **Applied AI Systems**  
+- Deep Learning & Video Intelligence  
+- Skill intelligence & recommendation engines  
+- End-to-end ML pipelines  
+
+🌐 **Full-Stack Engineering**  
+- Scalable backend architectures  
+- Modern frontend interfaces  
+- API-driven systems & dashboards  
+
+---
+
+## 🏗️ Currently Building
+
+### 🏥 Healthcare AI Imaging Systems — *IIT Madras*
+- AI-powered **real-time imaging pipelines** for healthcare automation  
+- Deep learning–based detection & tracking workflows  
+- API integration for **enterprise-ready research prototypes**
+
+### 🤖 EduAid — *AI Skill Mentor*
+- Personalized **career roadmap generation**  
+- Skill-gap analysis using data intelligence  
+- AI-driven recommendations for Tier-2/3 students  
+
+---
+
+## ⚙️ Tech Arsenal
+
+### 🧩 Languages
+`Python` `Java` `Kotlin` `JavaScript`
+
+### 🎨 Frontend
 `React.js` `Next.js` `HTML` `CSS`
 
-**Backend**  
-`Spring Boot` `Node.js` `REST APIs` `Microservices`
+### 🔧 Backend
+`Spring Boot` `Node.js` `FastAPI`  
+`REST APIs` `Microservices`
 
-**AI / Data**  
-`Machine Learning` `TensorFlow` `Computer Vision`
+### 🧠 AI / Data
+`Machine Learning` `Deep Learning`  
+`Computer Vision` `TensorFlow`
 
-**Databases**  
-`MongoDB` `MySQL`
+### 🗄️ Databases
+`MySQL` `MongoDB`
 
-**Tools**  
-`Docker` `Git` `Android Studio` `VS Code`
+### 🛠️ Tools & Platforms
+`Docker` `Git` `Android Studio`  
+`Power BI` `VS Code`
 
 ---
 
 ## 💼 Experience
 
-**Project Intern — Healthcare Technology Innovation Centre (HTIC), IIT Madras** *(2026–Present)*  
-- Developing imaging-based healthcare systems  
-- Supporting real-world clinical technology research  
-- Working on visualization and tracking workflows  
+### 🏥 Imaging & Algorithm Developer Intern  
+**Healthcare Technology Innovation Centre (HTIC), IIT Research Park**  
+*(Jan 2026 – Present)*  
+- Built **AI-driven computer vision pipelines** for real-time healthcare workflows  
+- Designed scalable Python + Deep Learning systems improving detection accuracy  
+- Deployed **research prototypes** aligned with enterprise healthcare standards  
 
-**Full-Stack Developer Intern — Krunatic Solutions** *(2024)*  
-- Built React + Node applications improving performance by 25%  
-- Designed modular REST APIs for scalable backend systems  
+### 📊 Data Science & ML Trainee  
+**Cranes Varsity** *(2024 – 2025)*  
+- Hands-on ML, DL & Computer Vision on real datasets  
+- Developed preprocessing pipelines & predictive models  
+- Worked with **TensorFlow, OpenCV & Python analytics**
 
-**Software Developer Intern — Cranes Varsity** *(2024)*  
-- Developed enterprise web modules for training platforms  
-- Implemented backend integrations and UI optimizations  
-- Supported real-time application deployment workflows  
+### 🌐 Full-Stack Web Developer Intern  
+*(May 2025 – Jul 2025)*  
+- Built scalable web applications using **ReactJS & Node.js**  
+- Integrated REST APIs & real-time dashboards  
+- Improved system performance by **25%**
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-|--------|-------------|
-| **EduAid – AI Skill Mentor** | AI career guidance platform for students |
-| **SMO Tracking System** | RFID manufacturing tracking (Android + Spring Boot + React) |
-| **Offline Language Translator** | Android app supporting 45+ offline languages |
-| **Smart Campus Assistant** | AI-powered campus automation assistant |
+| 🚀 Project | 💡 Impact |
+|-----------|-----------|
+| **Customized 3D Slicer Medical Imaging Platform** | Real-time instrument tracking using OpenIGTLink & custom modules |
+| **SMO Industrial Workflow Tracking Platform** | Improved production efficiency by **20%** |
+| **Violence Detection AI System** | Video intelligence system with **94% accuracy** |
+| **EduAid – AI Skill Mentor** | AI-powered career & skill guidance platform |
 
 ---
 
 ## 🏆 Achievements
 
-- National Hackathon Finalist — NCSRC & VIT-AP  
-- NPTEL Elite Certifications — GIS, Drones & ML  
-- Rapid Innovation Challenge — CMRIT Bangalore  
-- Multiple Full-Stack & Cloud Certifications  
+🏅 **NASSCOM Gold Certified** — Data Science with AI/ML  
+🏆 **National Hackathon Finalist** — NCSRC & VIT-AP  
+🎓 **NPTEL Elite Certifications** — GIS, Drones & ML  
+🚀 **Rapid Innovation Challenge Winner** — CMRIT Bangalore  
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bonthujayaram&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bonthujayaram&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bonthujayaram&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bonthujayaram&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -122,4 +148,6 @@
 
 ---
 
-> **“Build technology that solves real problems.” — Bonthu Jayaram**
+<p align="center">
+  <b>“I don’t just write code — I build systems that matter.”</b>
+</p>
