@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=0A66C2&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Bonthu+Jayaram;AI+%26+Full-Stack+Developer;Healthcare+Imaging+Research+Intern;Building+Impactful+Tech+Products" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=0A66C2&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Bonthu+Jayaram;AI+%26+Full-Stack+Developer;Healthcare+Imaging+Research+Intern+@+IIT+Madras;Building+Real-World+Impactful+Tech" />
 </p>
 
 <p align="center">
@@ -11,65 +11,66 @@
 # 👨‍💻 Bonthu Jayaram
 
 🎓 **B.Tech CSE (AI & ML)** — Centurion University (2022–2026)  
-📊 CGPA: **9.25**  
-🚀 Building **EduAid – AI-Powered Skill Mentor**  
-🧠 Focus Areas: **AI Systems · Full-Stack Engineering · Healthcare Technology**  
+📊 **CGPA:** 9.25  
+🏥 **Healthcare Imaging Research Intern — IIT Madras (HTIC)**  
+🚀 Founder Project: **EduAid – AI-Powered Skill Mentor**  
 
 🌐 **Portfolio:** https://portfolio2-0-bay-six.vercel.app/  
 📫 **Email:** bonthujayaram57@gmail.com  
 
 ---
 
-## 🚀 Current Work
+## 🚀 What I'm Building
 
-- 🏥 **Project Intern — Healthcare Technology Innovation Centre (HTIC), IIT Madras**
-  - Developing imaging-based healthcare solutions
-  - Working on medical visualization and tracking workflows
-  - Collaborating with research engineers on real-world healthcare systems
+### 🏥 Healthcare Imaging Systems — IIT Madras
+- Developing medical imaging workflow solutions
+- Building visualization and tracking-based healthcare tools
+- Working alongside researchers to translate clinical problems into software systems
 
-- 🤖 Building **EduAid**
-  - AI skill mentor for Tier-2/3 students
-  - Personalized learning roadmap + career guidance
-  - AI recommendation + analytics engine
+### 🤖 EduAid — AI Skill Mentor
+- AI-driven career roadmap generator
+- Skill gap detection + personalized learning plans
+- Data-driven recommendations for Tier-2/3 students
 
 ---
 
 ## ⚙️ Tech Stack
 
-**Languages**
+**Languages**  
 `Java` `Python` `Kotlin` `JavaScript` `C`
 
-**Frontend**
+**Frontend**  
 `React.js` `Next.js` `HTML` `CSS`
 
-**Backend**
+**Backend**  
 `Spring Boot` `Node.js` `REST APIs` `Microservices`
 
-**AI / Data**
-`TensorFlow` `Machine Learning` `Computer Vision`
+**AI / Data**  
+`Machine Learning` `TensorFlow` `Computer Vision`
 
-**Databases**
+**Databases**  
 `MongoDB` `MySQL`
 
-**Tools**
+**Tools**  
 `Docker` `Git` `Android Studio` `VS Code`
 
 ---
 
 ## 💼 Experience
 
-**Healthcare Imaging Intern — IIT Madras (HTIC)** *(2026–Present)*
-- Working on clinical imaging workflow systems
-- Developing visualization and tracking-based solutions
-- Supporting healthcare research product development
+**Project Intern — Healthcare Technology Innovation Centre (HTIC), IIT Madras** *(2026–Present)*  
+- Developing imaging-based healthcare systems  
+- Supporting real-world clinical technology research  
+- Working on visualization and tracking workflows  
 
-**Full-Stack Developer Intern — Krunatic Solutions (2024)**
-- Built React + Node applications improving performance by 25%
-- Implemented modular REST APIs and scalable backend logic
+**Full-Stack Developer Intern — Krunatic Solutions** *(2024)*  
+- Built React + Node applications improving performance by 25%  
+- Designed modular REST APIs for scalable backend systems  
 
-**Software Developer Intern — NullClass (2024)**
-- Developed RBAC-based authentication using Google Cloud
-- Built multilingual media services using Spring Boot + MongoDB
+**Software Developer Intern — Cranes Varsity** *(2024)*  
+- Developed enterprise web modules for training platforms  
+- Implemented backend integrations and UI optimizations  
+- Supported real-time application deployment workflows  
 
 ---
 
@@ -77,19 +78,19 @@
 
 | Project | Description |
 |--------|-------------|
-| **EduAid – AI Skill Mentor** | AI-driven career guidance platform for students |
-| **SMO Tracking System** | RFID-based manufacturing tracking (Android + Spring Boot + React) |
-| **Offline Language Translator** | Android app supporting offline multilingual translation |
-| **Smart Campus Assistant** | AI assistant for campus automation |
+| **EduAid – AI Skill Mentor** | AI career guidance platform for students |
+| **SMO Tracking System** | RFID manufacturing tracking (Android + Spring Boot + React) |
+| **Offline Language Translator** | Android app supporting 45+ offline languages |
+| **Smart Campus Assistant** | AI-powered campus automation assistant |
 
 ---
 
 ## 🏆 Achievements
 
-- National Hackathon Finalist — NCSRC & VIT-AP
-- NPTEL Elite Certifications — GIS, Drones & ML
-- Rapid Innovation Challenge — CMRIT Bangalore
-- Multiple Full-Stack & Cloud Certifications
+- National Hackathon Finalist — NCSRC & VIT-AP  
+- NPTEL Elite Certifications — GIS, Drones & ML  
+- Rapid Innovation Challenge — CMRIT Bangalore  
+- Multiple Full-Stack & Cloud Certifications  
 
 ---
 
