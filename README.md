@@ -10,7 +10,6 @@ Bonthu Jayaram
 AI Engineer | Full-Stack Systems Builder | Android Developer
 </p>
 
-
 ---
 
 # 👨‍💻 Bonthu Jayaram
@@ -38,7 +37,7 @@ AI Engineer | Full-Stack Systems Builder | Android Developer
 ### 🏥 Healthcare AI Imaging Systems — IIT Madras
 - Real-time AI imaging pipelines for healthcare automation  
 - Deep learning-based detection & tracking workflows  
-- Enterprise-ready research prototype deployment
+- Enterprise-ready research prototype deployment  
 
 ### 🤖 EduAid — AI Skill Mentor
 - Personalized career roadmap generation  
