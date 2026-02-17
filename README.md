@@ -1,4 +1,4 @@
-<!-- Profile Header -->
+<!-- HEADER START -->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&duration=3000&pause=600&color=0A66C2&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Bonthu+Jayaram;AI+Engineer+%7C+Healthcare+Imaging+Research;Full-Stack+Systems+Builder;Turning+Research+Into+Real-World+Impact" />
