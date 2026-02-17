@@ -1,20 +1,17 @@
-<!-- HEADER START -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&duration=3000&pause=600&color=0A66C2&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Bonthu+Jayaram;AI+Engineer+%7C+Healthcare+Imaging+Research;Full-Stack+Systems+Builder;Turning+Research+Into+Real-World+Impact" />
-</p>
-
 <p align="center">
   <img src="https://github.com/Bonthujayaram/Bonthujayaram/blob/main/banner.gif" width="100%" />
 </p>
 
+<h2 align="center">
+Bonthu Jayaram
+</h2>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=600&color=0A66C2&center=true&vCenter=true&width=700&lines=AI+Engineer;Healthcare+AI+Researcher;Full-Stack+Developer;CGPA+9.27" />
+AI Engineer | Healthcare Imaging Research | Full-Stack Systems Builder
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Engineer-Healthcare%20AI-0A66C2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Healthcare%20AI-Imaging%20Research-0057b8?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Full%20Stack-Developer-black?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/CGPA-9.27-blue?style=for-the-badge"/>
 </p>
