@@ -10,6 +10,12 @@ Bonthu Jayaram
 AI Engineer | Full-Stack Systems Builder | Android Developer
 </p>
 
+<p align="center">
+  <a href="https://portfolio2-0-theta-two.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 # 👨‍💻 Bonthu Jayaram
@@ -17,6 +23,7 @@ AI Engineer | Full-Stack Systems Builder | Android Developer
 🎓 **B.Tech Computer Science (AI & ML)** — *Centurion University*  
 🏥 **Healthcare Imaging & AI Research Intern — IIT Research Park (HTIC)**  
 🚀 **Founder:** EduAid – AI-Powered Skill Mentor  
+🌐 **Portfolio:** https://portfolio2-0-theta-two.vercel.app/  
 
 💡 I build **AI systems that move from research → production → real-world deployment**, focusing on **Healthcare Imaging, Computer Vision, and Scalable Full-Stack Platforms**.
 
@@ -103,13 +110,13 @@ AI Engineer | Full-Stack Systems Builder | Android Developer
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a hrefhttps://portfolio2-0-theta-two.vercel.app/">
+  <a href="https://portfolio2-0-theta-two.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/jayaram-bonthu-800003255/">
+  <a href="https://www.linkedin.com/in/jayaram-bonthu-800003255/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge" />
   </a>
-  <a href="https://github.com/Bonthujayaram">
+  <a href="https://github.com/Bonthujayaram" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge" />
   </a>
   <a href="mailto:bonthujayaram57@gmail.com">
