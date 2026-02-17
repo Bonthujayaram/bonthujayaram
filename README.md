@@ -7,7 +7,7 @@ Bonthu Jayaram
 </h2>
 
 <p align="center">
-AI Engineer | Healthcare Imaging Research | Full-Stack Systems Builder
+AI Engineer | Full-Stack Systems Builder
 </p>
 
 <p align="center">
